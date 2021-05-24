@@ -57,3 +57,37 @@ body{
   text-align: center;
   font-size: 30px;
  }
+ .one{
+ padding: 20px;
+   align-items: center;
+   margin: 0;
+   display: flex;
+   text-align: center; 
+   margin-top: 0%;
+  
+ }
+ .two{
+   margin-top: 0%;
+  padding: 20px;
+  align-items: center;
+  margin: 0;
+  display: flex;
+  text-align: center;
+  margin-top: 0;
+ 
+}
+p{
+  font-family: 'Abril Fatface', cursive;
+   font-size:20px ;
+}
+
+.three{
+  margin-top: 0%;
+  padding: 20px;
+   align-items: center;
+  margin: 0;
+  text-align: center;
+  display: flex;
+}
+
+ 
