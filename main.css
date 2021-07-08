@@ -1,10 +1,10 @@
 body{
-    background: rgb(238, 212, 238);
+    background: whitesmoke;
 }
 .navbar{
     padding-top: 30px;
     padding-left: 50%;
-    background-color: rgb(114, 43, 114);
+    background-color: rgb(190, 77, 139);
     margin: 0;
 }
   .navbar a{
@@ -38,7 +38,7 @@ body{
   marquee{
     font-style: italic;
     font-size: 24px;
-    color: rgb(206, 103, 206);
+    color: black
 
   }
   p{
@@ -66,6 +66,9 @@ body{
    margin-top: 0%;
   
  }
+ .sign{
+   color:rgb(37, 36, 37);
+ }
  .two{
    margin-top: 0%;
   padding: 20px;
@@ -89,5 +92,16 @@ p{
   text-align: center;
   display: flex;
 }
+.grid container{
+  display: grid;
+  grid-template-columns: auto;
+
+}
+.grid items{
+  border-image-width: 100%;
+}
+
+  
+
 
  
